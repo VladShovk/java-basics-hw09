@@ -22,6 +22,16 @@ public class ArraysTest {
                         new String[]{"here", "is", "some", "text", ".", "text"},
                         new String[]{"some", "text", "above", "."},
                         new String[]{"some", "text", "."}
+                },
+                {
+                        new String[]{"Hereford", "Gloucester", "Chester", "q", "w", "e"},
+                        new String[]{"Derby", "Chester", "0", "0"},
+                        new String[]{"Chester"}
+                },
+                {
+                        new String[]{"Map", "1", "Chester", " ", " ", " "},
+                        new String[]{"Derby", "Chester", "England", "Moby"},
+                        new String[]{"Chester"}
                 }
                 // TODO add 2 more test data here
         };
